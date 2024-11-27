@@ -1,0 +1,23 @@
+{
+  "name": "express-framwork",
+  "version": "1.0.0",
+  "description": "An express server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon java.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.21.1",
+    "uuid": "^11.0.2",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
